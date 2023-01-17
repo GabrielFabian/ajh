@@ -20,8 +20,8 @@ const HomePage = () => {
           </div>
           <div>
             <p className="text-xl text-slate-300 text-center mt-10">
-              "If love alone were enough to save you, you would have lived
-              forever."
+              If love alone were enough to save you, you would have lived
+              forever.
             </p>
           </div>
           <div class="text-xl text-slate-400 text-center mt-10">
