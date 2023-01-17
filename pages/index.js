@@ -9,13 +9,11 @@ const HomePage = () => {
   return (
     <>
       <Head>
-        <title>Fantasy Trade Ceneter | Fantasy Sports Trade Calculator</title>
-        <meta name="description" content="todo change me to SEO" />
-        <link rel="icon" href="/favicon.ico" />
+        <title>Alex James Hardy | We miss you every damn day</title>
       </Head>
       <div class="grid grid-cols-3 grid-rows-3 place-items-center h-screen">
         <div class="col-start-2 row-start-2 ">
-          <div class="">
+          <div>
             <p className="text-5xl text-slate-400 text-center">
               Alex James Hardy
             </p>
