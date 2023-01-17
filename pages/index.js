@@ -20,7 +20,7 @@ const HomePage = () => {
           </div>
           <div>
             <p className="text-5xl text-slate-300 text-center mt-10">
-              33.4372786, -111.4527465
+              33.43730, -111.45243
             </p>
           </div>
           <div>
