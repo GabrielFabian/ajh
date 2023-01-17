@@ -1,9 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
-import NavBar from "../components/Navbar";
-import Button from "../components/Button";
-import PlayerProfileHeader from "../components/PlayerProfileHeader";
-import StatTable from "../components/StatTable";
 
 const HomePage = () => {
   return (
